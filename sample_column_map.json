@@ -1,0 +1,10 @@
+{
+  "zone": "zone",
+  "woreda": "Woreda",
+  "kebele": "Kebele",
+  "village": "Village",
+  "hh_id": "HH_ID",
+  "eligibility": "Eligibility",
+  "hh_name": "Household Head Name",
+  "gender": "longList_gender"
+}
